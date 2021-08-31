@@ -160,11 +160,3 @@
       transition: 250ms;
     }
   }
-
-  @media screen and (max-width: 400px) {
-    .navbar{
-      width: 48vh;
-      position: sticky;
-    }
-    
-  }
